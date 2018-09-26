@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e2e/maven_core/maven_core.iml" filepath="$PROJECT_DIR$/e2e/maven_core/maven_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenpackage.iml" filepath="$PROJECT_DIR$/mavenpackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/own_assembly/own_assembly.iml" filepath="$PROJECT_DIR$/own_assembly/own_assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resources/resources.iml" filepath="$PROJECT_DIR$/resources/resources.iml" />
+    </modules>
+  </component>
+</project>
